@@ -1,4 +1,8 @@
-Project: Lemonade App - Starter Code
+Project: Lemonade App - Starter Code![Screenshot_20220806_022410](https://user-images.githubusercontent.com/42320061/183227727-019b0697-9adb-4e60-9cbb-32040ea0842c.png)
+![Screenshot_20220806_022442](https://user-images.githubusercontent.com/42320061/183227728-6163522c-dbfb-43f9-a376-5c4886f735d5.png)
+![Screenshot_20220806_022537](https://user-images.githubusercontent.com/42320061/183227730-ec38c973-d672-42fc-a8cf-c995b09d6b07.png)
+![Screenshot_20220806_022549](https://user-images.githubusercontent.com/42320061/183227731-dfccb66a-bad5-4c04-a9ee-447c92781b0f.png)
+
 ==================================
 
 Starter code for the first independent project for [Android Basics in Kotlin]
@@ -40,3 +44,6 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+Demo interface
+
